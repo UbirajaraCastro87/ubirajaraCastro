@@ -94,6 +94,6 @@ Jan 2008 – Dez 2014 | Rio de Janeiro, Brasil
 
 ***
 
-Se desejar, posso formatar essa versão para apresentação em PDF ou montar um portfólio web baseado nessas informações.
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85986467/079fc4d5-07b2-4789-be0b-1f2156eae38d/Profile-6.pdf)
+
+
