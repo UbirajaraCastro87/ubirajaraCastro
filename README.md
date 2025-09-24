@@ -16,6 +16,8 @@ Desenvolvedor de software, engenheiro de dados e pastor, atuando no Rio de Janei
 
 ## Formação Acadêmica & Certificações
 
+- Graduação em GESTÃO DA TECNOLOGIA DA INFORMAÇÃO.
+- Especialista em Ciência de Dados e Big Data Analytics.
 - Cursando graduação em Engenharia de Software.
 - Pós-graduação em Análise Forense e Segurança da Informação.
 - Participação no programa universitário Turma 13 (DIO), voltado para liderança e crescimento.
