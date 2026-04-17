@@ -56,8 +56,9 @@ Jan 2008 – Dez 2014 | Rio de Janeiro, Brasil
 ## Formação Acadêmica  
 
 - **Bacharel em Engenharia de Software** – Estácio (set/2025 - jun/2028)  
-- **Pós-graduação Lato Sensu em Segurança da Informação e Análise Forense** – Universidade Estadual de Ciências da Saúde de Alagoas (jul/2025 - dez/2026)  
-- **Tecnólogo em Gestão da Tecnologia da Informação** – Estácio (conclusão jan/2022)  
+- **Pós-graduação Lato Sensu em Segurança da Informação e Análise Forense** – Universidade Estadual de Ciências da Saúde de Alagoas (jul/2025 - dez/2026)
+- **Pós-Ciência de Dados e Big Data Analytics** – Estácio (conclusão jul/2025)  
+- **Tecnólogo em Gestão da Tecnologia da Informação** – Estácio (conclusão jan/2023)  
 
 ***
 
