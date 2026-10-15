@@ -61,7 +61,7 @@ Jan 2008 – Dez 2014 | Rio de Janeiro, Brasil
 - **Pós-graduação Lato Sensu em Segurança da Informação e Análise Forense** – UNCISAL
 - **Pós-Ciência de Dados e Big Data Analytics** – Estácio 
 - **Tecnólogo em Gestão da Tecnologia da Informação** – Estácio 
-- **Técnico em Informática para a Internet (IFSMG) 
+- **Técnico em Informática para a Internet** (IFSMG) 
 
 ***
 
